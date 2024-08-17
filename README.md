@@ -1,2 +1,2 @@
 # new-here
-this is my first dipository
+this is my first repository
